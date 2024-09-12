@@ -1,0 +1,8 @@
+environment:
+  name: deploy-guestbook
+  identifier: deployguestbook
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: default
+  projectIdentifier: guestbook
